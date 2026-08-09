@@ -1,0 +1,5 @@
+# Backup gerado pela IDE
+*.bak
+
+# Artefato temporário usado no deploy local/CI
+_site/
