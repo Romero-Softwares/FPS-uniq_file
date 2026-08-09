@@ -13,6 +13,8 @@
 
 ## Como jogar
 
+<img width="1356" height="844" alt="image" src="https://github.com/user-attachments/assets/276c8026-a499-4048-896e-418b21a7f95e" />
+
 1. Abra o jogo em um navegador compatível com WebGL.
 2. Escolha o modo na tela inicial e selecione **INICIAR**.
 3. Clique na tela do jogo para capturar o mouse e começar a mirar.
@@ -27,6 +29,8 @@
 | Trocar arma | `Q` / `E` |
 | Correr | `Shift` |
 | Pular | `Espaço` |
+
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/f82de7ba-4280-409a-b7e2-9ec71b855973" />
 
 ## Testar localmente
 
